@@ -9,10 +9,6 @@ I'm **Bisrate**, a passionate **Full-Stack Software Engineer** with a focus on *
 
 ### 📬 Let's connect!  
 - **Email**: fikertetadesse1403@gmail.com  
-
----
-
-Let me know if you'd like further adjustments!
 <!--
 **bisoul1984/bisoul1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
